@@ -1,1 +1,1 @@
-# basic-program-of-python
+python
